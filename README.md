@@ -8,7 +8,7 @@ This project is a simple implementation of the PACMAN game on an ARM Cortex-M ba
 - GLCD library
 - CMSIS-RTOS2 library
 
-Installation
+<b>Installation</b>
 
 - Clone the project repository from GitHub.
 - Open the project in Keil uVision5 IDE.
@@ -16,11 +16,12 @@ Installation
 - Build the project and download the code onto the microcontroller board.
 - Connect a joystick and LEDs to the microcontroller board for user input and output.
 
-Usage
+<b>Usage</b>
 
 The game is controlled using a joystick connected to the microcontroller board. The player controls the PACMAN character to move around the map and collect points while avoiding the ghost character. The game is displayed on an LCD screen connected to the board.
 
 The game can be played by running the main code and following the on-screen instructions. The player can move the PACMAN character using the joystick and the LED lights on the board indicate the number of lives remaining.
 
-Credits
+<b>Credits</b>
+
 This project was created by Avaneesh Panicker and is intended for educational purposes.
