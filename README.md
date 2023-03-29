@@ -1,5 +1,5 @@
 # Pacman-game
-This project is a simple implementation of the PACMAN game on an ARM Cortex-M based microcontroller using the LPC1768 development board. The game is developed in C programming language and is intended for educational purposes.
+This project is an implementation of the PACMAN game on an ARM Cortex-M based microcontroller using the LPC1768 development board. The game is developed in C programming language and is intended for educational purposes.
 
 <b><h2>Dependencies</h2></b>
 
